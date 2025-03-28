@@ -5,7 +5,8 @@
   💡 Apasionado por la transformación digital y la innovación tecnológica. 
 
 🔥 Sobre mí
-    🎓 Estudiante de Software, explorando nuevas tecnologías.
+
+  🎓 Estudiante de Software, explorando nuevas tecnologías.
 
 
 🛠️ Tecnologías y herramientas
