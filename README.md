@@ -1,6 +1,6 @@
 👋 ¡Hola, soy Kevin!
 
-  🚀 Desarrollador de Software
+  🚀 Desarrollador de Software Junior
   
   💡 Apasionado por la transformación digital y la innovación tecnológica. 
 
