@@ -10,16 +10,16 @@
 
 
 🛠️ Tecnologías y herramientas
-
-  🔹 Lenguajes: Dart, Python, Java, C#, JavaScript
+ 
+    🔹 Lenguajes: Dart, Python, Java, C#, JavaScript
     
-  🔹 Frameworks: Flutter, .NET, React 
+    🔹 Frameworks: Flutter, .NET, React 
+     
+    🔹 Bases de datos: Firebase Firestore, SQL, MySQL, SQLite, MongoBD
     
-  🔹 Bases de datos: Firebase Firestore, SQL, MySQL, SQLite, MongoBD
+    🔹 Herramientas: Git, GitHub, Docker
     
-  🔹 Herramientas: Git, GitHub, Docker
-    
-  🔹 APIs: Apple Music API, Firebase Authentication
+    🔹 APIs: Apple Music API, Firebase Authentication
 
 💡 Siempre aprendiendo
 
