@@ -13,13 +13,13 @@
  
     🔹 Lenguajes: Dart, Python, Java, C#, JavaScript
     
-    🔹 Frameworks: Flutter, .NET, React 
+    🔹 Frameworks: Flutter, .NET, Entity Framework
      
-    🔹 Bases de datos: Firebase Firestore, SQL, MySQL, SQLite, MongoBD
+    🔹 Bases de datos: Firebase Firestore, SQL, MySQL, SQLite, PostgreSQL
     
-    🔹 Herramientas: Git, GitHub, Docker
+    🔹 Herramientas: Git, GitHub, Docker, POstman
     
-    🔹 APIs: Apple Music API, Firebase Authentication
+    🔹 APIs: Firebase Authentication
 
 💡 Siempre aprendiendo
 
