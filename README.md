@@ -17,9 +17,9 @@
      
     🔹 Bases de datos: Firebase Firestore, SQL, MySQL, SQLite, PostgreSQL
     
-    🔹 Herramientas: Git, GitHub, Docker, POstman
+    🔹 Herramientas: Git, GitHub, Docker, Postman
     
-    🔹 APIs: Firebase Authentication
+    
 
 💡 Siempre aprendiendo
 
